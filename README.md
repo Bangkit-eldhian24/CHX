@@ -5,7 +5,7 @@ File types based on magic bytes (PE, ELF, LNK, ZIP, etc.)
 Entropy analysis — detect if a file is encrypted/compressed
 Hex dump of the first 256 bytes
 ASCII string & UTF-16 string (Windows format)
-JWT auto-decode → like your example: directly output username: john_doe, role: user, exp: ...
+JWT auto-decode
 URL, Windows path, Linux path, email, registry key, GUID, version
 Base64 embedded in binary
 
